@@ -1,0 +1,10 @@
+{
+  "owners": ["username of account that can control the bots"],
+  "accounts": [
+    ["email1", "password1"]
+  ],
+  "server":{
+    "host": "localhost",
+    "port": 25565
+  }
+}

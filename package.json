@@ -1,0 +1,17 @@
+{
+  "name": "fishing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-data": "^2.70.2",
+    "mineflayer": "^2.34.0",
+    "mineflayer-pathfinder": "^1.0.12"
+  }
+}
